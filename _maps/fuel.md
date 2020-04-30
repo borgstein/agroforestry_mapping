@@ -1,5 +1,5 @@
 ---
-name: "Modern Energy Cooking Services"
-mapname: fuel
+name: "Agroforestry"
+mapname: Agroforestry
 layout: map
 ---

@@ -4,13 +4,13 @@
 # Configure the basic settings below to configure your copy.
 
 # Your site settings
-title: ESMAP Clean Cooking Evidence Map 
+title: Agroforestry 
 description: > # this means to ignore newlines until "baseurl:"
-  A map of the evidence base of drivers and barriers towards clean cooking
-baseurl: "/evidencemap" # the subpath of your site, e.g. /blog
-url: "https://esmap.github.io" # the base hostname & protocol for your site
-ownername: "Energy Sector Management Assistance Program"
-ownerurl: "https://www.esmap.org/"
+  A map of the evidence base of agroforestry types -- GIVE BETTER NAME
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://lpox4g.github.io/" # the base hostname & protocol for your site
+ownername: "Matt"
+ownerurl: ""
 
 # Internal configuration
 plugins:
