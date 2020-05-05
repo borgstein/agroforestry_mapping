@@ -12,7 +12,7 @@
             "ExternalUrl": "http://www.ox.ac.uk/" }],
     "Projection": "standard",
     "DisplayMode": "cluster",
-    "DisplayUnit": "Program Focus",
+    "DisplayUnit": "Agroforestry type",
     "ClusterDistance": 500, 
     "MapCentre": [0, 25],
     "MapZoomLevel": 1,
