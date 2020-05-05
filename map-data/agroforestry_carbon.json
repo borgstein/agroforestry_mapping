@@ -12,7 +12,7 @@
             "ExternalUrl": "http://www.ox.ac.uk/" }],
     "Projection": "standard",
     "DisplayMode": "cluster",
-    "DisplayUnit": "Agroforestry type",
+    "DisplayUnit": "Effect on carbon/GHG measure",
     "ClusterDistance": 500, 
     "MapCentre": [0, 25],
     "MapZoomLevel": 1,
@@ -70,49 +70,43 @@
             "Name": "GHGEs/Carbon",
             "DataType": "string",
             "Description": "How were GHGEs and/or Carbon measured?"
-        }
+        },
+        {
+            "Column": "Effect on carbon/GHG measure",
+            "Name": "Effect on carbon/GHG measure",
+            "DataType": "string",
+            "Description": "Outcome Measure"
+         }
     ],
     "DataPalettes": [{
-        "Column": "Agroforestry type",
+        "Column": "Effect on carbon/GHG measure",
         "Palette": [{
-                "Name": "Biofuel",
+                "Name": "Positive",
                 "Hex": "4e79a7"
             },
             {
-                "Name": "Dehesa/Montado",
+                "Name": "Negative",
                 "Hex": "59a14f"
             },
             {
-                "Name": "Farm woodland",
+                "Name": "No effect",
                 "Hex": "9c755f"
             },            
             {
-                "Name": "Forest grazing",
+                "Name": "Mixed results (positive and no effect)",
                 "Hex": "f28e2b"
             },
             {
-                "Name": "Hedge",
+                "Name": "Mixed results (negative and no effect)",
                 "Hex": "edc948"
             },
             {
-                "Name": "Orchard",
+                "Name": "Mixed results (positive and negative)",
                 "Hex": "bab0ac"
             },
             {
-                "Name": "Riparian strip",
+                "Name": "Unclear from article",
                 "Hex": "e15759"
-            },
-            {
-                "Name": "Shelterbelt/Windbreak",
-                "Hex": "b07aa1"
-            },
-            {
-                "Name": "Silvopasture",
-                "Hex": "76b7b2"
-            },
-            {
-                "Name": "Wood pasture",
-                "Hex": "ff9da7"
             }
         ]
     }]
