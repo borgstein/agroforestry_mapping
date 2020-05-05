@@ -7,7 +7,7 @@
 title: Agroforestry 
 description: > # this means to ignore newlines until "baseurl:"
   A map of the evidence base of agroforestry types -- GIVE BETTER NAME
-baseurl: "/Agroforestry" # the subpath of your site, e.g. /blog
+baseurl: "/agroforestry_mapping" # the subpath of your site, e.g. /blog
 url: "https://borgstein.github.io/" # the base hostname & protocol for your site
 ownername: "Matt"
 ownerurl: ""
