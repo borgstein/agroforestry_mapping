@@ -6,11 +6,11 @@
 # Your site settings
 title: Agroforestry 
 description: > # this means to ignore newlines until "baseurl:"
-  A map of the evidence base of agroforestry types -- GIVE BETTER NAME
+  An evidence map of the productivity, environmental and economic impacts of integrating agroforestry into temperate sheep and cattle farming systems
 baseurl: "/agroforestry_mapping" # the subpath of your site, e.g. /blog
 url: "https://borgstein.github.io/" # the base hostname & protocol for your site
-ownername: "Matt"
-ownerurl: ""
+ownername: "Oxford Long-Term Ecology Lab"
+ownerurl: "https://oxlel.zoo.ox.ac.uk/"
 
 # Internal configuration
 plugins:
