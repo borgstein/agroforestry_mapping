@@ -70,6 +70,24 @@
             "Name": "GHGEs/Carbon",
             "DataType": "string",
             "Description": "How were GHGEs and/or Carbon measured?"
+        },
+        {
+            "Column": "Water quantity",
+            "Name": "Water quantity",
+            "DataType": "string",
+            "Description": "What was the effect on water quantity?"
+        },
+        {
+            "Column": "Water quality",
+            "Name": "Water quality",
+            "DataType": "string",
+            "Description": "What was the effect on water quality?"
+        },
+        {
+            "Column": "Soil erosion",
+            "Name": "Soil erosion",
+            "DataType": "string",
+            "Description": "What was the effect on soil erosion?"
         }
     ],
     "DataPalettes": [{
